@@ -1,0 +1,11 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database & ORM
+sqlalchemy
+
+# Security & Authentication
+bcrypt
+python-jose[cryptography]
